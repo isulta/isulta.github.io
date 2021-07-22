@@ -35,7 +35,7 @@ At each step, particles belonging to halos found at that step are brightly color
 
 The massive halo was formed by mergers of smaller halos over the course of the simulation.
 This visualization shows the trajectories of the 'cores' (central particles) of these smaller halos as they merged to form the massive halo at $z=0$.
-The plot has been overlaid with the z=0 downsampled particle distribution near the halo.
+The plot has been overlaid with the $z=0$ downsampled particle distribution near the halo.
 
 ### Supercluster halo
 
