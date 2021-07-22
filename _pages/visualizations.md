@@ -5,7 +5,7 @@ permalink: /visualizations/
 ## Alpha Quadrant simulation
 
 <video width="500" autoplay loop muted playsinline>
-    <source src="/media/AlphaQ_499_downsampledp.webm" type="video/webm">
+    <source src="/media/AlphaQ_499_downsampledp.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
 
@@ -18,7 +18,7 @@ All visualizations were created using [ParaView](https://www.paraview.org/).
 ### Halo particle tracking
 
 <video width="500" controls muted>
-    <source src="/media/AlphaQ_halo_formation.webm" type="video/webm">
+    <source src="/media/AlphaQ_halo_formation.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
 
@@ -29,7 +29,7 @@ At each step, particles belonging to halos found at that step are brightly color
 ### Core tracking
 
 <video width="500" controls muted>
-    <source src="/media/AlphaQ_core_tracking.webm" type="video/webm">
+    <source src="/media/AlphaQ_core_tracking.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
 
@@ -40,7 +40,7 @@ The plot has been overlaid with the $z=0$ downsampled particle distribution near
 ### Supercluster halo
 
 <video width="500" controls muted>
-    <source src="/media/AlphaQ_halo.webm" type="video/webm">
+    <source src="/media/AlphaQ_halo.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
 
