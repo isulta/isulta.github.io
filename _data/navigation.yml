@@ -4,7 +4,13 @@ main:
   #   url: /publications/
 
   # - title: "Talks"
-  #   url: /talks/    
+  #   url: /talks/
+  
+  - title: "Visualizations"
+    url: /visualizations/
+
+  - title: "Astrophotography"
+    url: /astrophotography/
 
   # - title: "Teaching"
   #   url: /teaching/    
