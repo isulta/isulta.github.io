@@ -34,10 +34,6 @@ gallery:
     image_path: aerial/thumb/aerial8.jpg
     alt: "Chicago skyline and Navy Pier"
     title: "Chicago skyline and Navy Pier"
-  - url: aerial/aerial9.jpg
-    image_path: aerial/thumb/aerial9.jpg
-    alt: "Navy Pier, Chicago"
-    title: "Navy Pier, Chicago"
   - url: aerial/aerial10.jpg
     image_path: aerial/thumb/aerial10.jpg
     alt: "Chicago skyline and Navy Pier"
@@ -60,6 +56,10 @@ gallery:
     image_path: aerial/thumb/aerial15.png
     alt: "Leaning Tower of Niles"
     title: "Leaning Tower of Niles (Niles, Illinois)"
+  - url: aerial/aerial9.jpg
+    image_path: aerial/thumb/aerial9.jpg
+    alt: "Navy Pier, Chicago"
+    title: "Navy Pier, Chicago"
 ---
 {% include gallery %}
 I got a DJI Mavic Mini in the summer of 2020.
