@@ -19,6 +19,8 @@ body {
     /* when primary navigation is visible, the content in the background won't scroll */
     overflow: hidden;
   }
+  background-image: url("/images/bg_light2.png");
+  background-attachment: fixed;
 }
 
 h1, h2, h3, h4, h5, h6 {
