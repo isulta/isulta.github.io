@@ -62,5 +62,6 @@ gallery:
     title: "Leaning Tower of Niles (Niles, Illinois)"
 ---
 {% include gallery %}
-I got a DJI Mavic Mini in summer 2020.
-Here are some of my favorite pictures I've shot.
+I got a DJI Mavic Mini in the summer of 2020.
+I had never flown a drone before, but I found the flight/camera controls quite beginner friendly and recommend this model to anyone interested in aerial photography.
+Here are some of my favorite pictures I've shot with it.
