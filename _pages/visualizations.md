@@ -2,6 +2,9 @@
 title: "Visualizations"
 permalink: /visualizations/
 ---
+
+{% include toc %}
+
 ## Alpha Quadrant Simulation
 
 <img src="/images/AlphaQ_499_downsampledp.gif" alt="AlphaQ Simulation" align="right" width="450">
