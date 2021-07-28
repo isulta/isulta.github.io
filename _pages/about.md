@@ -13,7 +13,7 @@ feature_row:
     url: /research/#massive-galaxy-formation-and-agn-feedback
     excerpt: "how did the largest galaxies in our universe form?"
     btn_label: "learn more"
-  - image_path: smacc2.jpg
+  - image_path: SMACC2.jpg
     alt: "Core tracking visualization"
     title: "modeling halo substructure"
     excerpt: "how does matter evolve at cosmological scales?"
