@@ -10,8 +10,8 @@ feature_row:
     btn_label: "View more"
   - image_path: aerial/thumb/aerial4.jpg
     alt: "31st Street Harbor"
-    title: "Aerialphotography"
-    excerpt: "Aerial photography with a DJI Mavic Mini"
+    title: "Aerial photography"
+    excerpt: "Aerial pictures with a DJI Mavic Mini"
     url: /aerialphotography
     btn_label: "View more"
 ---

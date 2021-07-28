@@ -12,11 +12,13 @@ feature_row:
     title: "massive galaxy formation"
     url: /research/#massive-galaxy-formation-and-agn-feedback
     excerpt: "how did the largest galaxies in our universe form?"
+    btn_label: "learn more"
   - image_path: smacc2.jpg
     alt: "Core tracking visualization"
     title: "modeling halo substructure"
     excerpt: "how does matter evolve at cosmological scales?"
     url: /research/#modeling-halo-substructure-in-extreme-scale-cosmology-simulations
+    btn_label: "learn more"
 ---
 
 I apply simulations to study open problems in astrophysics and cosmology.
