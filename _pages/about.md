@@ -19,11 +19,17 @@ feature_row:
     excerpt: "how does matter evolve at cosmological scales?"
     url: /research/#modeling-halo-substructure-in-extreme-scale-cosmology-simulations
     btn_label: "learn more"
+  - image_path: e3/thumb/Jan23.png
+    alt: "green comet on January 23"
+    title: "green comet"
+    excerpt: "images I captured of our early-2023 visitor, comet c/2022 e3 (ZTF)"
+    url: /greencomet/
+    btn_label: "view gallery"
 ---
 
 I apply simulations to study open problems in astrophysics and cosmology.
 I am currently a graduate researcher in the [Faucher-Giguère galaxy formation group](https://galaxies.northwestern.edu/) at the [Center for Interdisciplinary Exploration and Research in Astrophysics (CIERA)](https://ciera.northwestern.edu/) at Northwestern.
 
-Here's a glance at my ongoing and recent research projects.
+Here's a glance at my ongoing and recent projects.
 
 {% include feature_row %}
