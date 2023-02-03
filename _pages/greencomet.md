@@ -5,6 +5,9 @@ gallery:
   - url: e3/Jan19.png
     image_path: e3/thumb/Jan19.png
     title: "January 19, 2023"
+  - url: e3/Jan25color.png
+    image_path: e3/thumb/Jan25color.png
+    title: "January 25, 2023"
   - url: e3/Jan30.png
     image_path: e3/thumb/Jan30.png
     title: "January 30, 2023"
