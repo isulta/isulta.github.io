@@ -232,6 +232,28 @@ figure {
       width: 100%;
     }
   }
+
+  @media only screen and (max-width: $small - 1){
+    margin: 1em -1.1em;
+    -webkit-box-pack: justify;
+          justify-content: left;
+    &.third {
+      > a,
+      > img {
+        width: 33.3333%;
+        margin: 0 0 0 0;
+        border: .1px solid #fff;
+      }
+    }
+    img,
+    iframe,
+    .fluid-width-video-wrapper {
+      margin-bottom: 0;
+    }
+    img{
+      border-radius: 0;
+    }
+  }
 }
 
 /* Figure captions */
