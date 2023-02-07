@@ -20,6 +20,9 @@ gallery:
   - url: e3/Jan22_conjunction.png
     image_path: e3/thumb/Jan22_conjunction.png
     title: "January 22, 2023"
+  - url: e3/movement.gif
+    image_path: e3/thumb/movement.png
+    title: "January 22, 2023"
   - url: e3/Jan25.png
     image_path: e3/thumb/Jan25.png
     title: "January 25, 2023"
