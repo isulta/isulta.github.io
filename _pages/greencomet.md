@@ -8,6 +8,12 @@ gallery:
   - url: e3/Feb1.png
     image_path: e3/thumb/Feb1.png
     title: "February 1, 2023"
+  - url: e3/Feb17.png
+    image_path: e3/thumb/Feb17.png
+    title: "February 17, 2023: Green Comet passing by the Orion molecular cloud complex, Pleiades, and Mars"
+  - url: e3/Feb11.png
+    image_path: e3/thumb/Feb11.png
+    title: "February 11, 2023: Green Comet encounters Mars"
   - url: e3/Jan23.png
     image_path: e3/thumb/Jan23.png
     title: "January 23, 2023"
@@ -33,4 +39,4 @@ gallery:
 {% include gallery %}
 There was a remarkable event to kick off 2023: comet C/2022 E3 (ZTF) visited the inner Solar System.
 Amateur astronomers had the unique opportunity to photograph the "green comet" as it made its closest approach to Earth on around February 1. 
-This set of images show the comet on Jan. 19- Feb. 1; they were acquired in northern Illinois and at remote observatories in the US and Europe.
+This set of images show the comet on Jan. 19- Feb. 17; they were acquired in northern Illinois and at remote observatories in the US and Europe.
