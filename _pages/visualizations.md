@@ -49,3 +49,7 @@ The algorithm works by repeatedly finding the center of mass of a sphere as its 
 
 Here, the shrinking sphere algorithm is applied to the [FIRE](https://fire.northwestern.edu/) massive galaxy A8 simulation at $z=1$.
 The dark matter and gas distributions are shown in the left and right panels, respectively.
+
+## FIRE halo
+
+{% include video id="YSbsGKp6xCs" provider="youtube" %}

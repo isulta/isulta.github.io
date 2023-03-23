@@ -36,6 +36,7 @@ gallery:
     image_path: e3/thumb/Jan22.png
     title: "January 22, 2023"
 ---
+🗞️ [Graduate student’s photos of green comet featured in major media outlets](https://ciera.northwestern.edu/2023/02/03/green-comet-visible-in-the-night-sky-for-first-time-since-stone-age-makes-its-closest-pass-by-earth/)
 {% include gallery %}
 There was a remarkable event to kick off 2023: comet C/2022 E3 (ZTF) visited the inner Solar System.
 Amateur astronomers had the unique opportunity to photograph the "green comet" as it made its closest approach to Earth on around February 1. 
