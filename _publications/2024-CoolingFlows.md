@@ -1,0 +1,10 @@
+---
+title: "Cooling Flows as a Reference Solution for the Hot Circumgalactic Medium"
+collection: publications
+permalink: /publication/2024-CoolingFlows
+date: 2024-10-21
+# venue: ''
+paperurl: 'https://arxiv.org/abs/2410.16359'
+citation: '<b>Imran Sultan</b>, Claude-André Faucher-Giguère, Jonathan Stern, Shaked Rotshtein, Lindsey Byrne, Nastasha Wijers. 2024. arXiv:2410.16359 [astro-ph.GA]'
+---
+The circumgalactic medium (CGM) in $\gtrsim 10^{12}\ M_\odot$ halos is dominated by a hot phase ($T \gtrsim 10^{6}$ K). While many models exist for the hot gas structure, there is as yet no consensus. We compare cooling flow models, in which the hot CGM flows inward due to radiative cooling, to the CGM of $\sim 10^{12}-10^{13}\ M_\odot$ halos in galaxy formation simulations from the FIRE project at $z\sim0$. The simulations include realistic cosmological evolution and feedback from stars but neglect AGN feedback. At both mass scales, CGM inflows are typically dominated by the hot phase rather than by the 'precipitation' of cold gas. Despite being highly idealized, we find that cooling flows describe $\sim 10^{13}\ M_\odot$ halos very well, with median agreement in the density and temperature profiles of $\sim 20\%$ and $\sim 10\%$, respectively. This indicates that stellar feedback has little impact on CGM scales in those halos. For $\sim 10^{12}\ M_\odot$ halos, the thermodynamic profiles are also accurately reproduced in the outer CGM. For some of these lower-mass halos, cooling flows significantly overpredict the hot gas density in the inner CGM. This could be due to multidimensional angular momentum effects not well captured by our 1D cooling flow models and/or to the larger cold gas fractions in these regions. Turbulence, which contributes $\sim 10-40\%$ of the total pressure, must be included to accurately reproduce the temperature profiles. Overall, cooling flows predict entropy profiles in better agreement with the FIRE simulations than other idealized models in the literature.
